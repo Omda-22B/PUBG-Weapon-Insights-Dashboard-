@@ -88,7 +88,7 @@ Interactive Filtering:
 
 Switch between weapon types or stats using an intuitive UI design.
 
-![Pubg Weapon Dashboard.png](Pubg Weapon Dashboard.png)
+![PubgWeaponDashboard.png](PubgWeaponDashboard.png)
 
 
 # Conclusion
