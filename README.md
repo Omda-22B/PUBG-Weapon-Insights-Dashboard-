@@ -1,4 +1,4 @@
-# PUBG-Weapon-Insights-Dashboard-
+# PUBG Weapon Insights
 
 # Description
 
@@ -8,8 +8,6 @@ This project aims to assist players in understanding the strengths and weaknesse
 Power Query :data cleaning
 DAX: For data preparation, calculations, and measures.
 Power BI: For interactive dashboards and data visualization.
-
-# Dashboard
 
 
 
@@ -68,7 +66,7 @@ Showcases bullet speed and damage for the top-performing weapons.
 Example: Weapons like Mini14, M416, and AWM ranked by performance.
 
 - Weapon Stats Panel:
-- 
+
 Interactive Dashboard:
 
 Users can explore key weapon stats like shots to kill, bullet type, and speed.
