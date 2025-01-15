@@ -88,6 +88,8 @@ Interactive Filtering:
 
 Switch between weapon types or stats using an intuitive UI design.
 
+![Pubg Weapon Dashboard.png](Pubg Weapon Dashboard.png)
+
 
 # Conclusion
 This PUBG Weapon Insights dashboard offers a comprehensive and interactive way to analyze weapon performance, empowering gamers to make data-driven decisions. By visualizing key metrics such as damage, shots to kill, bullet type, and speed, players can optimize their gameplay strategies effectively.
